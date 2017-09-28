@@ -17,7 +17,7 @@ namespace Triangle_of_Numbers
                 for (int j = 1; j < i; j++) {
                     Console.Write($"{i} so lets go home");
                 }
-
+                --------test conflict
                 Console.WriteLine();
 <<<<<<< HEAD
                 Console.WriteLine("Vasil");
