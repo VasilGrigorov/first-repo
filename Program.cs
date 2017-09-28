@@ -18,6 +18,7 @@ namespace Triangle_of_Numbers
                 }
                 Console.WriteLine();
                 Console.WriteLine("V");
+                Console.WriteLine("We are Great");
             }
         }
     }
