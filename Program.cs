@@ -17,7 +17,7 @@ namespace Triangle_of_Numbers
                     Console.Write($"{i} ");
                 }
                 Console.WriteLine();
-                Console.WriteLine("V");
+                Console.WriteLine("Vasil");
             }
         }
     }
