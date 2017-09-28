@@ -10,15 +10,19 @@ namespace Triangle_of_Numbers
     {
         static void Main(string[] args)
         {
+           
             int n = int.Parse(Console.ReadLine());
             for (int i = 1; i <= n; i++) {
                 Console.Write($"{i} ");
                 for (int j = 1; j < i; j++) {
-                    Console.Write($"{i} ");
+                    Console.Write($"{i} so lets go home");
                 }
+
                 Console.WriteLine();
                 Console.WriteLine("V");
                 Console.WriteLine("We are Great");
+                
+            
             }
         }
     }
