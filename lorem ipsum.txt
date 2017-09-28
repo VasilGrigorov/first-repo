@@ -12,4 +12,8 @@ And now lets see if you can catch the changes ;) okay
 
 And now lets make a conflict ;) Thats really strange....
 
+<<<<<<< HEAD
 Kriji make conflict 6 minets ago..... see at commits
+=======
+Hellooooo! Bozjo XD
+>>>>>>> b455e53f1913b78996ab006874bc1fa3aff21194
