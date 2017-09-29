@@ -17,3 +17,4 @@ Kriji make conflict 6 minets ago..... see at commits
 =======
 Hellooooo! Bozjo XD
 >>>>>>> b455e53f1913b78996ab006874bc1fa3aff21194
+>>>>>>>> Let's make some conflicts!!!
