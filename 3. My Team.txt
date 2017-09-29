@@ -1,0 +1,32 @@
+1. What is their name?
+2. Where are they from?
+3. What hobbies/pastimes do they enjoy?
+4. Why did they pick SoftUni?
+
+---------------------------------------------------------------------
+
+1. Dilyan Ivanov
+2. Sofia
+3. Sport, snowbording
+4. I want to learn to programing.
+
+---------------------------------------------------------------------
+
+1. Galin Shterev
+2. Gabrovo
+3. Pleying basketball, playing video games.
+4. Becouse he thinks this is the place to learn programming.
+
+---------------------------------------------------------------------
+
+1. Bozhidar
+2. Sofia
+3. reading books.
+4. He wants to meet new 
+
+---------------------------------------------------------------------
+
+1. Kristina
+2. Sofia
+3. Waching movies
+4. Becouse she find programing interesting.
